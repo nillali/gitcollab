@@ -29,4 +29,6 @@ classI -- classJ : Link(Solid)
 classK ..> classL : Dependency
 classM ..|> classN : Realization
 classO .. classP : Link(Dashed)
-``` 
+```
+## User story 008
+:two_women_holding_hands: Dreamteam! 
