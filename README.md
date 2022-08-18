@@ -23,7 +23,7 @@ float decimal = 0.5;
 ## User Story 008
 
 Nilla is on :fire:
-=======
+
 ## User story 013
 ```mermaid
 classDiagram
@@ -36,4 +36,8 @@ classK ..> classL : Dependency
 classM ..|> classN : Realization
 classO .. classP : Link(Dashed)
 ``` 
+
+```
+## User story 008
+:two_women_holding_hands: Dreamteam! 
 
